@@ -1,0 +1,68 @@
+img{
+	
+	
+	
+    height: 390px !important;
+    
+    width: 25%;
+     
+    float: left;
+
+    margin: 4.166%
+
+   
+    
+
+}
+
+
+
+
+h1{
+	text-align: center;
+	font-family: 'Monoton', cursive;
+	text-decoration: overline;
+	color: white;
+	
+
+
+}
+
+
+
+body{
+	background: url("testpics/black.png");
+	
+
+}
+
+#mikasa{
+	position: relative;
+	left: 7%
+}
+
+
+#yummy{
+	position: relative;
+	right: 7%
+}
+
+#four{
+	position: relative;
+	left: 7%
+}
+
+#miku{
+	position: relative;
+	right: 7%
+}
+
+#seven{
+	position: relative;
+	left: 7%
+}
+
+#nine{
+	position: relative;
+	right: 7%
+}
